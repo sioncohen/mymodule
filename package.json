@@ -1,5 +1,5 @@
 {
-  "name": "mymodule",
+  "name": "@sioncohen/mymodule",
   "version": "0.0.1",
   "description": "test module",
   "main": "dist/index.js",
